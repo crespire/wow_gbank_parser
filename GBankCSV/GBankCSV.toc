@@ -1,0 +1,10 @@
+## Interface: 20503
+## Title: GBankCSV
+## Notes: Exports guild bank information for external management.
+## Author: Shimon-Westfall
+## Version: TBC 1.0
+## SavedVariablesPerCharacter: LastGoldCheck
+## LoadOnDemand: 1
+## LoadWith: Blizzard_GuildBankUI
+
+GBankCSV.lua

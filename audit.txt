@@ -1,0 +1,37 @@
+Netherweave Net,24268,189
+Netherweb Spider Silk,21881,9
+Essence of Fire,7078,22
+Essence of Undeath,12808,3
+Essence of Water,7080,6
+Living Essence,12803,3
+Void Sphere,22459,2
+Greater Planar Essence,22446,2
+Void Crystal,22450,3
+Greater Nature Protection Potion,13458,9
+Greater Arcane Protection Potion,13461,12
+Dreamless Sleep Potion,12190,5
+Arcane Dust,22445,33
+Netherweave Cloth,21877,72
+Mercurial Stone,31080,2
+Steam Tonk Controller,22728,4
+Subtle Living Ruby,24032,2
+Sparkling Star of Elune,24035,1
+Six of Warlords,19263,1
+Five of Furies,31903,1
+Eight of Lunacy,31911,1
+Scroll of Intellect V,27499,1
+Scroll of Stamina V,27502,1
+Fish Oil,17058,11
+Shiny Fish Scales,17057,7
+Mark of Sargeras,30809,8
+Sunfury Signet,30810,30
+Elemental Blasting Powder,23781,7
+Codex: Prayer of Shadow Protection II,31837,1
+Book: Gift of the Wild III,22146,1
+Libram of Rumination,11732,1
+Top Half of Advanced Armorsmithing: Volume II,18782,1
+Libram of Tenacity,11734,1
+Libram of Voracity,11737,1
+Tome of Arcane Brilliance,18600,2
+Tome of Arcane Brilliance 2,22153,2
+Tome of Conjure Water IX,29550,1
